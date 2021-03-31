@@ -4,7 +4,7 @@
       
     `;
 
-    customElements.define('com-sap-sample-helloworld222', class WidgetTemplate extends HTMLElement {
+    customElements.define('com-sap-sample-helloworld9', class WidgetTemplate extends HTMLElement {
 
 
 		constructor() {
